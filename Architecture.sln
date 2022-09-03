@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainDrivenDesign", "DomainDrivenDesign", "{EA186E4D-051E-44FD-A4D4-95763F734A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainDriven", "DomainDriven\DomainDriven.csproj", "{5DAFB5D7-3234-45FC-9FA5-17C5F98765F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAFB5D7-3234-45FC-9FA5-17C5F98765F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAFB5D7-3234-45FC-9FA5-17C5F98765F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAFB5D7-3234-45FC-9FA5-17C5F98765F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAFB5D7-3234-45FC-9FA5-17C5F98765F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5DAFB5D7-3234-45FC-9FA5-17C5F98765F5} = {EA186E4D-051E-44FD-A4D4-95763F734A36}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38883A03-2CDF-4965-99B4-611B3227F662}
+	EndGlobalSection
+EndGlobal
