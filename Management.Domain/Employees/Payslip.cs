@@ -40,6 +40,6 @@ namespace Management.Domain.Employees
             Value = new PayslipValueObject(WorkingDays, coefficientsSalary, Bonus);
             TotalSalary = Value.TotalSalary;
             PaymentDate = DateTime.Now;
-        }
+        }s
     }
 }
